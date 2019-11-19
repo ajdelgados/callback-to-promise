@@ -1,0 +1,30 @@
+{
+  "name": "callback-to-promise",
+  "version": "0.0.1",
+  "description": "https://github.com/public-apis/public-apis",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajdelgados/callback-to-promise.git"
+  },
+  "keywords": [
+    "callback",
+    "promise",
+    "async",
+    "await"
+  ],
+  "author": "Arturo J. Delgado S.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajdelgados/callback-to-promise/issues"
+  },
+  "homepage": "https://github.com/ajdelgados/callback-to-promise#readme"
+}
